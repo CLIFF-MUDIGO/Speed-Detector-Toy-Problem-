@@ -31,10 +31,10 @@ The speed detector toy problem involves creating a program or web application th
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
+
 To install all requirements That is vscode
 
-> $ python3 manage.py runserver
+
 Then run server with the above command
 *****
 ## Live Link
