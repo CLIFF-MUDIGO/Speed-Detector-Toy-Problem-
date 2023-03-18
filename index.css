@@ -4,6 +4,8 @@ input[type="text"] {
     border: none;
     margin-right: 10px;
     font-size: 16px;
+    background-color: blueviolet;
+    
 }
 button {
     padding: 10px;

@@ -38,7 +38,7 @@ To install all requirements That is vscode
 Then run server with the above command
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [LINK.](Speed-Detector-Toy-Problem-)
 *****
 ## Dependencies
 - Package Name
