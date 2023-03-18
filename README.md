@@ -6,8 +6,7 @@ Speeddetector(toy problem).
 The speed detector toy problem involves creating a program or web application that takes as input the speed of a car and outputs a message depending on the speed. Specifically, if the speed is less than 70 km/h, the program should output "Ok". However, if the speed is greater than or equal to 70 km/h, the program should calculate the number of demerit points the driver has received based on the speed and output a message indicating the number of demerit points. In this problem, each 5 km/h above the speed limit (70 km/h) results in one demerit point. If the number of demerit points exceeds 12, the driver's license should be suspended, and the program should output a message indicating this. The goal of the toy problem is to test the ability to write a program that performs basic calculations and conditionally outputs messages based on the result of those calculations.
 
 ## SCREENSHOTS
-- link 1
-- link 2
+https://github.com/CLIFF-MUDIGO/Speed-Detector-Toy-Problem-/issues/1#issue-1630550066
 
 
 ********
