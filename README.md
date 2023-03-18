@@ -13,8 +13,8 @@ The speed detector toy problem involves creating a program or web application th
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* [Lang](html.com,javascript.com, 
+Cascading Style Sheets)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
 
