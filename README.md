@@ -38,7 +38,7 @@ To install all requirements That is vscode
 Then run server with the above command
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](Speed-Detector-Toy-Problem-)
+Or you can access the web application directly via this [LINK.](https://beautiful-valkyrie-1fff2a.netlify.app/)
 *****
 ## Dependencies
 - Package Name
